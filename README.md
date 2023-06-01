@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello World! :D
+
+## About Me()
+
+{
+
+&emsp; person.name = "Eleanor Tien";
+
+&emsp; ....
+
+&emsp; person.info = "I'm an undergrad student learning computer science at Toronto Metropolitan University (formerly known as Ryerson).";
+
+&emsp; person.interests = new interests[] {"game development", "robotics", "music", "art"}
+
+  
+}
+
 
 <!--
 **eleanortien/eleanortien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
