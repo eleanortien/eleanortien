@@ -4,13 +4,25 @@
 
 {
 
-&emsp; person.name = "Eleanor Tien";
+&emsp; person.name = "Eleanor Tien"; 
 
 &emsp; ....
 
 &emsp; person.info = "I'm an undergrad student learning computer science at Toronto Metropolitan University (formerly known as Ryerson).";
 
-&emsp; person.interests = new interests[] {"game development", "robotics", "music", "art"}
+&emsp; person.interests = new string[] {"game development", "robotics", "music", "art"}
+
+&emsp; person.known_languages = new string[] {"Python", "Java", "C#", "C++", "SQL"};
+
+&emsp; print( "I'm someone interested in trying everything and anything! Feel free to reach out!");
+
+&emsp; ....
+
+&emsp; person.linkedin = "[www.linkedin.com/in/eleanortien](www.linkedin.com/in/eleanortien)";
+
+&emsp; person.email = "eleanortien@gmail.com";
+
+&emsp; person.fun_fact = "I've made a few small games! -> [here](https://norinerd.itch.io/)";
 
   
 }
